@@ -8,5 +8,5 @@
 
 ### Running instruction
 
-LICENSE_KEY=test python3 app.py       
+bash main.sh
 
