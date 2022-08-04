@@ -3,10 +3,10 @@
 
 ### Prerequisite
 
-1. Python
-2. Flask library in python should be installed
+Python,Pip should be installed
+
+`pip install -r requirements.txt`
 
 ### Running instruction
 
 bash main.sh
-
